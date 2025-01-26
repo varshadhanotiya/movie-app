@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Movies App
 Movies app that displays popular movies and movie details
 
@@ -9,3 +10,7 @@ Technologies used
 * HTML
 * CSS
 * JavaScript
+=======
+# movie-app
+Movies website that displays popular movies list and movie details.
+>>>>>>> 37d150caff44be797f811546ea773ca758fadf80
