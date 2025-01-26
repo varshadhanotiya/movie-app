@@ -9,6 +9,8 @@ Technologies used
 * HTML
 * CSS
 * JavaScript
-=======
+
+
+
 # movie-app
 Movies website that displays popular movies list and movie details.
